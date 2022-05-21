@@ -6,7 +6,7 @@ class buk extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("aaa"),
+      child: Text("aaabbbb"),
     );
   }
 }
